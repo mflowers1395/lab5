@@ -10,5 +10,6 @@ table {
 }
 
 th {
+  align: center;
   height: 50px;
 }
