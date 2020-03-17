@@ -1,17 +1,13 @@
+table, td, th {
+  border: 1px solid black;
+}
+
 table {
   border-collapse: collapse;
   width: 100%;
-  background-color: green;
+  background-color: pink;
 }
-
-th, td {
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even){background-color: gold}
 
 th {
-  background-color: pink;
-  color: white;
+  height: 50px;
 }
