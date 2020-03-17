@@ -26,3 +26,8 @@ h1{
 body{
   background-color: lightgrey;
 }
+
+table.center {
+  margin-left:auto;
+  margin-right:auto;
+}
